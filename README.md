@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zackdokong
 - 👀 I’m interested in Deep/ Machine Learning
-- 🌱 I’m currently learning Python/C/C++
+- 🌱 I’m currently learning Python/C/C++/Go/HTML,CSS,JS/
 - 📫 How to reach me seungjunlee0515@gmail.com
 - I live in S.Korea
