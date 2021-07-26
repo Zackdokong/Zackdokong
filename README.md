@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Python/C/C++/Go/HTML,CSS,JS/
 - 📫 How to reach me seungjunlee0515@gmail.com
 - I live in S.Korea
+- I am currently solving problems on https://www.acmicpc.net/
